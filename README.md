@@ -11,7 +11,7 @@ Reflection 26/01/2021
 ## Duyệt mảng liên kết
 	Cách phổ biến nhất là dùng lệnh foreach, có hai trường hợp mỗi lần lặp trích xuất ra giá trị phần tử và trích xuất cả giá trị và chỉ số index
 
-	// vòng lặp, lấy giá trị từng phần tử
+	
 	foreach ($bienmang as $value) {
     	var_dump($value);
 	}
@@ -24,15 +24,15 @@ Reflection 26/01/2021
 	Ví dụ:
 
 	<?php
-  	 	 $names = ["An", "Minh", "Nguyên"];
+  	 	 $names = ["Nguyen", "Huy", "Thang"];
    		 foreach ($names as $k => $name)
   	  {
    		echo "chỉ số $k; giá trị $name", PHP_EOL;
  	   }
   	  /*
-        chỉ số 0; giá trị An
-        chỉ số 1; giá trị Minh
-        chỉ số 2; giá trị Nguyên
+        chỉ số 0; giá trị Nguyen
+        chỉ số 1; giá trị Huy
+        chỉ số 2; giá trị Thang
   	  */
   	  foreach ($names as $name)
   	  {
