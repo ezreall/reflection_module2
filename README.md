@@ -1,5 +1,8 @@
 # reflection_module2
-Reflection 26/01/2021
+
+# Reflection 27/01/2021
+
+# Reflection 26/01/2021
 ## include(),require() và require_once()
 	Theo em hiểu thì các hàm include(), require() và require_once() đều được dùng để nhập vào mã lệnh có trong một tập tin khác
 	Nên sử dụng require khi ứng dụng yêu cần phải nhập vào một tập tin mang tính chất bắt buộc. Nếu tập tin này không tồn tại PHP sẽ chấm dứt hoạt động của chương trình đang chạy và hiển thị lỗi E_COMPILE_ERROR.
