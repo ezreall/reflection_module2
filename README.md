@@ -26,23 +26,15 @@ Hàm tạo (constructor)
 
 //• Dùng để tạo và khởi tạo các trạng thái ban đầu của đối tượng
 
-//• Mặc định sẽ có một Hàm tạo không có đối số được thêm vào cho
+//• Mặc định sẽ có một Hàm tạo không có đối số được thêm vào cho lớp.
 
-//lớp.
-
-//Có thể lựa chọn sử dụng các constructor khác nhau bằng cách
-
-//truyền vào tham số khác nhau
+//Có thể lựa chọn sử dụng các constructor khác nhau bằng cách truyền vào tham số khác nhau
 
 __construct() vs __destruct()
 
-// Để can thiệp vào quá trình khởi tạo đối tượng, chúng ta sử dụng
+// Để can thiệp vào quá trình khởi tạo đối tượng, chúng ta sử dụng hàm __construct()
 
-//hàm __construct()
-
-//• Để can thiệp vào quá trình huỷ đối tượng, chúng ta sử dụng hàm
-
-//__destruct()
+//• Để can thiệp vào quá trình huỷ đối tượng, chúng ta sử dụng hàm __destruct()
 
 # Reflection 26/01/2021
 ## include(),require() và require_once()
