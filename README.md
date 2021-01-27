@@ -2,6 +2,28 @@
 
 # Reflection 27/01/2021
 
+Từ khoá class được sử dụng để khai báo lớp
+Từ khoá new được sử dụng để khởi tạo đối tượng
+Phương thức khởi tạo (constructor) là phương thức giúp khởi tạo các đốitượng
+Các phương thức cho phép thay đổi giá trị của thuộc tính được gọi là setter, các phương thức cho phép lấy về giá trị của thuộc tính được gọi là getter
+Access modifier là các từ khoá được sử dụng để quy định mức độ truy cập đến lớp và các thành phần của lớp
+Các mức truy cập:
+public: có thể truy cập từ bất cứ đâu
+private: các phương thức và thuộc tính chỉ được phép truy xuất trong cùng một lớp
+protected: các phương thức và thuộc tính được phép truy xuất trong cùng một lớp và ở các lớp con (kế thừa)
+Từ khoá this được sử dụng để đại diện cho đối tượng hiện tại
+Hàm tạo (constructor)
+//• Dùng để tạo và khởi tạo các trạng thái ban đầu của đối tượng
+//• Mặc định sẽ có một Hàm tạo không có đối số được thêm vào cho
+//lớp.
+//Có thể lựa chọn sử dụng các constructor khác nhau bằng cách
+//truyền vào tham số khác nhau
+__construct() vs __destruct()
+// Để can thiệp vào quá trình khởi tạo đối tượng, chúng ta sử dụng
+//hàm __construct()
+//• Để can thiệp vào quá trình huỷ đối tượng, chúng ta sử dụng hàm
+//__destruct()
+
 # Reflection 26/01/2021
 ## include(),require() và require_once()
 	Theo em hiểu thì các hàm include(), require() và require_once() đều được dùng để nhập vào mã lệnh có trong một tập tin khác
