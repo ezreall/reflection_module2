@@ -1,5 +1,5 @@
 # reflection_module2
-
+# Reflection 28/01/2021 https://github.com/ezreall/reflection_module2/blob/main/bai4.xmind
 # Reflection 27/01/2021
 
 Từ khoá class được sử dụng để khai báo lớp
