@@ -11,6 +11,9 @@
 • Có ít sự phụ thuộc
 • Không có mã bị trùng lặp (duplicate)
 • Thể hiện được ý tưởng của thiết kế
+#Mã nguồn nhằm mục đích chính:
+• Mã nguồn dễ duy trì hơn
+• Mã nguồn dễ mở rộng hơn
 # reflection 1/02/2021
 https://github.com/ezreall/reflection_module2/blob/main/Abstract%20va%CC%80%20interface.docx
 # reflection 29/01/2021
