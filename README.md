@@ -1,11 +1,7 @@
 # reflection_module2
 # reflection 2/02/2021
 
-• Các đặc điểm của clean code:<br>• Đơn giản<br>• Trực tiếp <br>• Dễ đọc<br>• Dễ cải tiến<br> • Có unit test và acceptance test
-• Các định danh đều thể hiện rõ nghĩa
-• Có ít sự phụ thuộc
-• Không có mã bị trùng lặp (duplicate)
-• Thể hiện được ý tưởng của thiết kế
+• Các đặc điểm của clean code:<br>• Đơn giản<br>• Trực tiếp <br>• Dễ đọc<br>• Dễ cải tiến<br> • Có unit test và acceptance test<br>• Các định danh đều thể hiện rõ nghĩa<br>• Có ít sự phụ thuộc<br>• Không có mã bị trùng lặp (duplicate)<br>• Thể hiện được ý tưởng của thiết kế
 #Mã nguồn nhằm mục đích chính:
 • Mã nguồn dễ duy trì hơn
 • Mã nguồn dễ mở rộng hơn
