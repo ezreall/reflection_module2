@@ -6,10 +6,20 @@
 <br>• Mã nguồn dễ duy trì hơn
 <br>• Mã nguồn dễ mở rộng hơn
 ## Các cách thực hành clean code.
-Áp dụng coding conventions trong việc đặt tên (biến, hàm, class), số lượng (dòng trong một hàm, số kí tự trong một dòng, số hàm trong một class,..) <br>sử dụng comment, thực hiện xuống dòng..
-Sử dụng nguyên lý SOLID.
+Áp dụng coding conventions trong việc đặt tên (biến, hàm, class), số lượng (dòng trong một hàm, số kí tự trong một dòng, số hàm trong một class,..)sử dụng comment, thực hiện xuống dòng..<br>
+Sử dụng nguyên lý SOLID.<br>
 Sử dụng Seperation of Concern và các mô hình phổ biến như MVC, MVVM để phân tách code thành nhiều thành phần nhỏ, dễ quản lý.
 Áp dụng design pattern để giải quyết các vấn đề trong code.
+## SOLID
+Hiểu một cách đơn giản SOLID là 5 nguyên lý giúp lập trình viên phát triền phần mềm với kiến trúc tốt<br>
+S đại diện cho SRP (Single responsibility principle<br>
+O đại diện cho OCP (Open closed principle)<br>
+L đại diện cho LSP (Liskov substitution principle)<br>
+I đại diện cho ISP ( Interface segregation principle)<br>
+D đại diện cho DIP ( Dependency inversion principle)<br>
+
+## Refactoring.
+Là việc thay đổi cấu trúc bên trong mà không làm thay đổi hành vi với bên ngoài hệ thống
 # reflection 1/02/2021
 https://github.com/ezreall/reflection_module2/blob/main/Abstract%20va%CC%80%20interface.docx
 # reflection 29/01/2021
