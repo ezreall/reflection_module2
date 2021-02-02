@@ -1,10 +1,10 @@
 # reflection_module2
 # reflection 2/02/2021
 
-• Các đặc điểm của clean code:<br>• Đơn giản<br>• Trực tiếp <br>• Dễ đọc<br>• Dễ cải tiến<br> • Có unit test và acceptance test<br>• Các định danh đều thể hiện rõ nghĩa<br>• Có ít sự phụ thuộc<br>• Không có mã bị trùng lặp (duplicate)<br>• Thể hiện được ý tưởng của thiết kế
+• Các đặc điểm của clean code:<br>• Đơn giản<br>• Trực tiếp <br>• Dễ đọc<br>• Dễ cải tiến<br> • Có unit test và acceptance test<br>• Các định danh đều thể hiện rõ nghĩa<br>• Có ít sự phụ thuộc<br>• Không có mã bị trùng lặp (duplicate)<br>• Thể hiện được ý tưởng của thiết kế<br>
 #Mã nguồn nhằm mục đích chính:
-• Mã nguồn dễ duy trì hơn
-• Mã nguồn dễ mở rộng hơn
+<br>• Mã nguồn dễ duy trì hơn
+<br>• Mã nguồn dễ mở rộng hơn
 # reflection 1/02/2021
 https://github.com/ezreall/reflection_module2/blob/main/Abstract%20va%CC%80%20interface.docx
 # reflection 29/01/2021
