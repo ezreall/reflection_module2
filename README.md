@@ -19,7 +19,9 @@ I đại diện cho ISP ( Interface segregation principle)<br>
 D đại diện cho DIP ( Dependency inversion principle)<br>
 
 ## Refactoring.
-Là việc thay đổi cấu trúc bên trong mà không làm thay đổi hành vi với bên ngoài hệ thống
+Là việc thay đổi cấu trúc bên trong mà không làm thay đổi hành vi với bên ngoài hệ thống<br>
+Refactoring có thể thực hiện ở nhiều mức độ<br>
+Hệ thống -> Chức năng -> File/Class -> Method/Functions
 # reflection 1/02/2021
 https://github.com/ezreall/reflection_module2/blob/main/Abstract%20va%CC%80%20interface.docx
 # reflection 29/01/2021
