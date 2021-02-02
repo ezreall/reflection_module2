@@ -1,4 +1,10 @@
 # reflection_module2
+# reflection 2/02/2021
+
+• Các đặc điểm của clean code:
+• Đơn giản • Trực tiếp • Dễ đọc • Dễ cải tiến • Có unit test và acceptance test
+• Các định danh đều thể hiện rõ nghĩa • Có ít sự phụ thuộc • Không có mã bị trùng lặp (duplicate)
+• Thể hiện được ý tưởng của thiết kế
 # reflection 1/02/2021
 https://github.com/ezreall/reflection_module2/blob/main/Abstract%20va%CC%80%20interface.docx
 # reflection 29/01/2021
