@@ -1,7 +1,8 @@
 # reflection_module2
 # reflection 2/02/2021
 
-• Các đặc điểm của clean code:<br>• Đơn giản<br>• Trực tiếp <br>• Dễ đọc<br>• Dễ cải tiến<br> • Có unit test và acceptance test<br>• Các định danh đều thể hiện rõ nghĩa<br>• Có ít sự phụ thuộc<br>• Không có mã bị trùng lặp (duplicate)<br>• Thể hiện được ý tưởng của thiết kế<br>
+# Các đặc điểm của clean code:
+• Đơn giản<br>• Trực tiếp <br>• Dễ đọc<br>• Dễ cải tiến<br> • Có unit test và acceptance test<br>• Các định danh đều thể hiện rõ nghĩa<br>• Có ít sự phụ thuộc<br>• Không có mã bị trùng lặp (duplicate)<br>• Thể hiện được ý tưởng của thiết kế<br>
 ## Mã nguồn nhằm mục đích chính:
 <br>• Mã nguồn dễ duy trì hơn
 <br>• Mã nguồn dễ mở rộng hơn
@@ -21,7 +22,8 @@ D đại diện cho DIP ( Dependency inversion principle)<br>
 ## Refactoring.
 Là việc thay đổi cấu trúc bên trong mà không làm thay đổi hành vi với bên ngoài hệ thống<br>
 Refactoring có thể thực hiện ở nhiều mức độ<br>
-Hệ thống -> Chức năng -> File/Class -> Method/Functions
+Hệ thống -> Chức năng -> File/Class -> Method/Functions<br>
+Tùy theo những mức độ này thì "cấu trúc bên trong" "hành vi bên ngoài" "hệ thống" sẽ được hiểu khác nhau.Ví dụ khi refactoring 1 class thì cấu trúc bên trong là properties, method của class đó hành vi bên ngoài là các nhiệm vụ mà class đó thực hiện.Như vậy refactoring khi đó là viết lại properties, method sao cho không làm thay đổi các nhiệm vụ của class đó
 # reflection 1/02/2021
 https://github.com/ezreall/reflection_module2/blob/main/Abstract%20va%CC%80%20interface.docx
 # reflection 29/01/2021
