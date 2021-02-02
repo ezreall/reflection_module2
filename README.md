@@ -2,7 +2,9 @@
 # reflection 2/02/2021
 
 • Các đặc điểm của clean code:
-• Đơn giản 
+<br>
+• Đơn giản
+<br>
 • Trực tiếp 
 • Dễ đọc
 • Dễ cải tiến 
