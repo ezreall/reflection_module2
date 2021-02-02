@@ -2,9 +2,14 @@
 # reflection 2/02/2021
 
 • Các đặc điểm của clean code:<br>• Đơn giản<br>• Trực tiếp <br>• Dễ đọc<br>• Dễ cải tiến<br> • Có unit test và acceptance test<br>• Các định danh đều thể hiện rõ nghĩa<br>• Có ít sự phụ thuộc<br>• Không có mã bị trùng lặp (duplicate)<br>• Thể hiện được ý tưởng của thiết kế<br>
-#Mã nguồn nhằm mục đích chính:
+## Mã nguồn nhằm mục đích chính:
 <br>• Mã nguồn dễ duy trì hơn
 <br>• Mã nguồn dễ mở rộng hơn
+## Các cách thực hành clean code.
+Áp dụng coding conventions trong việc đặt tên (biến, hàm, class), số lượng (dòng trong một hàm, số kí tự trong một dòng, số hàm trong một class,..) <br>sử dụng comment, thực hiện xuống dòng..
+Sử dụng nguyên lý SOLID.
+Sử dụng Seperation of Concern và các mô hình phổ biến như MVC, MVVM để phân tách code thành nhiều thành phần nhỏ, dễ quản lý.
+Áp dụng design pattern để giải quyết các vấn đề trong code.
 # reflection 1/02/2021
 https://github.com/ezreall/reflection_module2/blob/main/Abstract%20va%CC%80%20interface.docx
 # reflection 29/01/2021
