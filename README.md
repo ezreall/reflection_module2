@@ -24,6 +24,10 @@ Là việc thay đổi cấu trúc bên trong mà không làm thay đổi hành 
 Refactoring có thể thực hiện ở nhiều mức độ<br>
 Hệ thống -> Chức năng -> File/Class -> Method/Functions<br>
 Tùy theo những mức độ này thì "cấu trúc bên trong" "hành vi bên ngoài" "hệ thống" sẽ được hiểu khác nhau.Ví dụ khi refactoring 1 class thì cấu trúc bên trong là properties, method của class đó hành vi bên ngoài là các nhiệm vụ mà class đó thực hiện.Như vậy refactoring khi đó là viết lại properties, method sao cho không làm thay đổi các nhiệm vụ của class đó
+# Tại sao phải refactoring code
+Refactoring không hề làm hệ thống chạy nhanh hơn, bảo mật hơn tuy nhiên nó sẽ giúp source code dễ tiếp cận, dễ đọc, dễ hiểu từ đó giúp ích rất nhiều cho quá trình bảo trì, mở rộng hệ thống.
+# Khi nào thì thực hiện refactoring
+Bất cứ khi nào bạn muốn đoạn code của mình "tốt hơn" thì đều có thể thực hiện refactoring. Tuy nhiên một số giai đoạn dưới đây được cho là thích hợp hơn để làm refactoring
 # reflection 1/02/2021
 https://github.com/ezreall/reflection_module2/blob/main/Abstract%20va%CC%80%20interface.docx
 # reflection 29/01/2021
