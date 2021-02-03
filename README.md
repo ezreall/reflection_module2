@@ -1,4 +1,18 @@
 # reflection_module2
+# reflection 3/02/2021
+ArrayList là dùng một mảng động (như mảng thường nhưng có thể thay đổi kích thước và các phương thức thêm) để lưu trữ phần tử.<br>
+LinkedList sử dụng danh sách liên kết để lưu trữ phần tử. Mỗi phần thử có thể được gọi là 1 node trong danh sách.<br>
+Vậy cả 2 đều dùng để lưu trữ danh sách. Giờ chúng ta cùng xem sự khác nhau của chúng nhé.<br>
+
+# Chúng khác nhau ở những đặc điểm sau:
+
+1- Cách lưu trữ phần tử: Định nghĩa đã nêu rõ rồi đúng không nào<br>
+2- ArrayList thêm và xóa phần tử chậm hơn LinkedList: Điều này khá dễ hiểu vì LinkedList chỉ cần thay đổi luồng trỏ của các node trong danh sách nên độ phức tạp là O(1) còn ArrayList phải tăng/lùi tất cả những vị trí sau vị trí muốn thêm/xóa nên độ phức tạp là O(n).<br>
+3- ArrayList truy xuất phần tử nhanh hơn LinkedList: ArrayList muốn truy xuất đến phân tử thứ mấy trong danh sách thì chỉ cần gọi vị trí đó ra là được nên mất O(1) phức tạp, còn LinkedList thì phải duyệt qua các phần tử trước đó thì mới truy xuất được đến phần tử cần lấy nên độ phức tạp là O(n)<br>
+4- ArrayList chỉ có thể hoạt động như 1 list thông thường, còn LinkedList có thể hoạt động như ArrayList, stack, queue. (stack và queue mình sẽ nói đến ở bài blog khác nhé)<br>
+5- ArrayList yêu cầu ít bộ nhớ hơn LinkedList: Vì ngoài lưu trữ giá trị thì các node trong LinkedList còn phải chứa các tham chiếu đến phần tử trước, sau của nó nữa.
+
+
 # reflection 2/02/2021
 
 # Các đặc điểm của clean code:
