@@ -3,7 +3,7 @@
 ### ArrayList : 
 là dùng một mảng động (như mảng thường nhưng có thể thay đổi kích thước và các phương thức thêm) để lưu trữ phần tử.<br>
 ### LinkedList : 
-ử dụng danh sách liên kết để lưu trữ phần tử. Mỗi phần thử có thể được gọi là 1 node trong danh sách.<br>
+Sử dụng danh sách liên kết để lưu trữ phần tử. Mỗi phần thử có thể được gọi là 1 node trong danh sách.<br>
 
 
 # Chúng khác nhau ở những đặc điểm sau:
