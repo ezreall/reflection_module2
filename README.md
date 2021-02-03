@@ -1,8 +1,10 @@
 # reflection_module2
 # reflection 3/02/2021
-ArrayList là dùng một mảng động (như mảng thường nhưng có thể thay đổi kích thước và các phương thức thêm) để lưu trữ phần tử.<br>
-LinkedList sử dụng danh sách liên kết để lưu trữ phần tử. Mỗi phần thử có thể được gọi là 1 node trong danh sách.<br>
-Vậy cả 2 đều dùng để lưu trữ danh sách. Giờ chúng ta cùng xem sự khác nhau của chúng nhé.<br>
+### ArrayList : 
+là dùng một mảng động (như mảng thường nhưng có thể thay đổi kích thước và các phương thức thêm) để lưu trữ phần tử.<br>
+### LinkedList : 
+ử dụng danh sách liên kết để lưu trữ phần tử. Mỗi phần thử có thể được gọi là 1 node trong danh sách.<br>
+
 
 # Chúng khác nhau ở những đặc điểm sau:
 
