@@ -1,5 +1,44 @@
 # reflection_module2
-# Bài tập Stack https://github.com/ezreall/Bai_tap_modul2.git
+### Bài tập Stack https://github.com/ezreall/Bai_tap_modul2.git
+# reflection 4/02/2021
+## Stack
+Giống như một ngăn xếp <br>
+Hoạt động theo nguyên lý Last-In-First-Out(Vào cuối ra trước) <br>
+Có thể dùng Mảng hoặc là một linkedList để lưu trữ các phần tử<br>
+
+### Các thao tác cơ bản của Stack
+• push(): lưu giữ một phần tử trên ngăn xếp<br>
+• pop (): Xoá một phần tử từ ngăn xếp<br>
+• peek(): lấy phần tử dữ liệu ở trên cùng của ngăn xếp, mà không xóa phần tử này. <br>
+• isEmpty(): Kiểm tra rỗng<br>
+• isFull(): kiểm tra xem ngăn xếp đã đầy hay chưa.<br>
+
+## Queue
+Chỉ cho phép truy cập vào giá trị ở phía trước hàng đợi và lặp lại theo thứ tự đó, một cách triệt tiêu.<br>
+Là một cấu trúc dữ liệu được sử dụng rộng rãi gồm một tập hợp các nút (rếng Anh: node) được liên kết với nhau theo quan hệ cha-con.<br>
+Tuân theo phương pháp First-In-First-Out, tức là dữ liệu được nhập vào đầu tiên sẽ được truy cập đầu tiên.<br>
+### Các thao tác cơ bản của Queue
+• enqueue(): thêm (hay lưu trữ) một phần tử vào trong hàng đợi.<br>
+• dequeue(): xóa một phần tử từ hàng đợi. • peek(): lấy phần tử ở đầu hàng đợi, mà không xóa phần tử này<br>
+• isEmpty(): Kiểm tra rỗng<br>
+• isFull(): kiểm tra xem hàng đợi đã đầy hay chưa.<br>
+
+## Tree
+Cấu trúc Tree đơn giản nhất đó là cấu trúc mà ở đó mỗi node chỉ có nhiều nhất là 2 node con, loại này thường được gọi là Cây nhị phân (binary tree)
+
+### Cây nhị phân - Binay Tree
+• Là cây rỗng hoặc là cây mà mỗi node có tối đa 2 node con<br>
+
+### Cây nhị phân tìm kiếm - Binay Search Tree
+ Phần tử ở node đó lớn hơn các phần tử ở cây con bên trái<br> 
+ Nhỏ hơn các phần tử ở cây con bên phải<br>
+ 
+ #### Hoạt động cơ bản trên cây tìm kiếm nhị phân
+• Chèn: chèn một phần tử vào trong một cây/ tạo một cây.<br>
+• Tìm kiếm: tìm kiếm một phần tử trong một cây.<br>
+• Duyệt tiền thứ tự: duyệt một cây theo cách thức duyệt tiền thứ tự<br>
+• Duyệt trung thứ tự: duyệt một cây theo cách thức duyệt trung thứ tự<br>
+• Duyệt hậu thứ tự: duyệt một cây theo cách thức duyệt hậu thứ tự<br>
 # reflection 3/02/2021
 ### ArrayList : 
 là dùng một mảng động (như mảng thường nhưng có thể thay đổi kích thước và các phương thức thêm) để lưu trữ phần tử.<br>
